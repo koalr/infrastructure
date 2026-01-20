@@ -2,3 +2,4 @@
 // Feature: new capability added
 // Documentation updated
 # Refactored for clarity
+// Bug fix: edge case handling
