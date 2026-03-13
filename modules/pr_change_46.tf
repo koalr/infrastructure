@@ -1,3 +1,5 @@
 # Change 2 for PR 2 - Update dependency versions
 # Change 1 for PR 12 - Fix race condition in queue processor
 # Change 2 for PR 18 - Fix memory leak in worker process
+# Change 2 for PR 20 - Add feature flag support
+# Change 5 for PR 20 - Add feature flag support
